@@ -1,2 +1,0 @@
-# ReactAutoScroll
-Created with CodeSandbox

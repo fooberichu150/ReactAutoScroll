@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.demo-box {
+  display: inline-block;
+  margin: 5px 10px;
+  width: 40%;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: lawngreen;
+}
+
+.demo-box:first-child {
+  background-color: aqua;
+}
+
+.anyipsum-output {
+  padding-bottom: 200px;
+}
+
+.demo1 {
+  background-color: cyan;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.demo2 {
+  background-color: lawngreen;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
